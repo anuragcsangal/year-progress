@@ -1,0 +1,13 @@
+{
+    "name": "Year Growth",
+    "description": "Tracks Year Growth",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "./popup.html"
+    },
+    "icons":{
+        "16": "favicon-16x16.png",
+        "32": "favicon-32x32.png"
+    }
+}
